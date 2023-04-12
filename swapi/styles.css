@@ -1,0 +1,15 @@
+body{
+    background-image: url(Alderaan.jpeg);
+    display: flex;
+    color: rgb(209, 197, 243);
+    flex-direction: column;
+    align-items: center;
+}
+button{
+    padding: 15px;
+    font-size: 25px;
+    background-color: rgb(147, 109, 216);
+    border: 0px;
+    border-radius: 2%;
+    color: rgb(236, 232, 226);
+}
